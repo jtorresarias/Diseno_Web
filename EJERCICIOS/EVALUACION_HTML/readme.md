@@ -133,14 +133,15 @@ uno, y luego escríbelo correctamente. (cada respuesta vale 0.3, en total suman 
         *<img "birthday.jpg></img>
         
         2. <i>Congratulations!<i>
-        
         *<i>Congratulations!</i>
+        
         3. <a href="file.html">Enlace de texto</a href="file.html">
+        *<a href="file.html">Enlace de texto</a>
         
         4. <p>Esto es un párrafo<\p>
         *<p>Esto es un párrafo</p>
 
- Indicaciones: La siguiente imagen muestra el contenido de la página web del periodico
+Indicaciones: La siguiente imagen muestra el contenido de la página web del periodico
 The New York Times. Coloca los elementos semánticos de HTML5 dentro de cada uno de
 los recuadros según corresponda: (valor 0.3 cada una, total 1.8)
     
