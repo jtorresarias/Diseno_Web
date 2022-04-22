@@ -227,10 +227,7 @@ Preguntas:
           d) <input type="checkbox">  
 
 14. ¿Cuál es el HTML correcto para crear un campo de entrada de texto? (valor 0.24) 
-  
-          a) textfield
-          b) textinput type="text"
-          c) input type="textfield"
+
           d) input type="text"
   
 15. ¿Cuál es el HTML correcto para hacer una lista desplegable? (valor 0.24)
@@ -249,31 +246,28 @@ Preguntas:
   
 18. ¿Cuál es el HTML correcto para insertar una imagen de fondo? (valor 0.24)
   
-   
-          c) <background img="background.gif">
+         c) <background img="background.gif">
   
 19. Los comentarios HTML comienzan con ![image](https://user-images.githubusercontent.com/91554777/164576568-aa1ae841-a85f-486b-b286-be51bfc8cd4e.png) (valor 0.24)
   
         a) Verdadero
-        b) Falso
+       
 
 20.Los elementos de bloque normalmente se muestran sin comenzar una nueva línea.(valor 0.24)
   
         a) Verdadero
-        b) Falso
+       
   
 21. ¿Qué elemento HTML define el título de un documento? (valor 0.24)
   
         a) title
-        b) head
-        c) meta
+        
   
 22.¿Qué atributo HTML especifica un texto alternativo para una imagen, si la imagen no se puede mostrar? (valor 0.24)
 
-        a) longdesc
-        b) src
+      
         c) alt
-        d) title
+        
   
 23. ¿Qué tipo de documento es correcto para HTML5? (valor 0.24)
   
