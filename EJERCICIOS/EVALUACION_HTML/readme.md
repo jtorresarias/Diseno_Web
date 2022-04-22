@@ -81,7 +81,6 @@ a imágenes en una carpeta, en otra los relacionados a multimedia, en otra a lo
 referente a los estilos (CSS), etc. (valor 1.0)
 
         a) Cierto
-        b) Falso
 
 ## 3. ESTRUCTURA BÁSICA DE UN DOCUMENTO HTML
 
@@ -91,9 +90,12 @@ Preguntas:
 
 1. ¿Menciona brevemente qué es una etiqueta y qué es un elemento? (valor 0.6)
 
+*Etiqueta.- Son instrucciones que delimitan el inico y final de un elemento. 
+
+*Elemento.- Son varias instrucciones que delimitan secciones. 
+
 2. ¿Qué significa la semántica en el contexto de HTML5? (valor 0.3)
-a) Las etiquetas HTML semánticas dan un significado extra al contenido de la
-etiqueta
+
 
         a) Las etiquetas HTML semánticas dan un significado extra al contenido de la etiqueta
         b) La nueva etiqueta <semantic> contiene información sobre cómo interpretar el
