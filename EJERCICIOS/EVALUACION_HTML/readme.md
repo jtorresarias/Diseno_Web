@@ -28,6 +28,7 @@ Presentar de forma visual/estilo/diseño una página o sitio web al usuario.
 6. Menciona al menos 2 tecnologías de software para el desarrollo de páginas web y explícalas brevemente (valor 1.0)
 
 *CSS.-Da estilo, diseño, colores a la página o sitio web. 
+
 *Java Scrip.- Conecta el backend y frontend, utiliza variables y realiza operaciones lógicas o aritméticas. 
 
 
@@ -40,14 +41,22 @@ Preguntas:
 
 1. Describe al menos 5 características básicas de un editor de texto. (valor 1.0)
 
-*Lenguaje plano
-*Permiten editar un lenguaje en HTML
-*
+*Cortar
+
+*Pegar
+
+*Copiar
+
+*Remplazar
+
+*Dar formato
 
 2. Menciona al menos 3 editores de texto. Pueden ser tanto comerciales como los preinstalados en algún sistema operativo. (valor 1.0)
 
 *Block de notas
+
 *Word
+
 *Vscode
 
 3. ¿Qué extensión debe tener un archivo que contiene el código HTML de una página web? (valor 1.0)
@@ -61,8 +70,10 @@ Preguntas:
 5. ¿Menciona al menos tres formatos de imagen que puedes incorporar dentro del código html5? (valor 1.0)
 
 *png
+
 *jpg
-*
+
+*gif
 
 6. Uno de los buenos hábitos para desarrollar nuestra página web es tener en
 distintas carpetas distintos tipos de archivo, por ejemplo, los archivos relacionados
