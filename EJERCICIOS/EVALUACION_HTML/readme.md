@@ -146,6 +146,9 @@ The New York Times. Coloca los elementos semánticos de HTML5 dentro de cada uno
 los recuadros según corresponda: (valor 0.3 cada una, total 1.8)
     
  ![image](https://user-images.githubusercontent.com/91554777/164572088-a10117ae-7343-4ad9-9d51-48ae5beb5dbb.png)
+ 
+ ![image](https://user-images.githubusercontent.com/101658619/164750612-cb986d1c-216f-4b51-b861-805a0738a041.png)
+
     
 ## 4. LENGUAJE HTML
 
