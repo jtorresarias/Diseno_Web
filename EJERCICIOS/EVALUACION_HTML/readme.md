@@ -272,21 +272,19 @@ Preguntas:
 23. ¿Qué tipo de documento es correcto para HTML5? (valor 0.24)
   
         a) <!DOCTYPE html>
-        b) <!DOCTYPE HTML5>
+      
   
-c) <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 5.0//EN\"\"http://www.w3.org/TR/html5/strict.dtd\">
+
   
 24.¿Qué elemento HTML se usa para especificar un pie de página para un documentoo sección? (valor 0.24)
   
         a) bottom
-        b) footer
-        c) section
+        
   
 25. ¿Cuál es el elemento HTML correcto para reproducir archivos de video? (valor 0.24)
   
         a) video
-        b) media
-        c) movie
+     
   
 Realiza la maquetación del siguiente ejemplo de página: (se aplica la rúbrica de la maquetación en código html, valor 18)
   
