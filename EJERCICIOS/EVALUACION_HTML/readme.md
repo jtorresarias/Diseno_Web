@@ -302,11 +302,11 @@ extensión .html
 actividad pero sí todo el código HTML5 que da estructura a cada una de las
 secciones que se muestran en la imagen de arriba.
 
-              <!DOCTYPE html>
-  <head>
-    <title>Título de página</title>
-</head>
-<body>
+    <!DOCTYPE html>
+         <head>
+              <title>Título de página</title>
+                 </head>
+       <body>
     <header>
         <h1>ENCABEZADO NIVEL 1</h1>
         <nav>
@@ -340,13 +340,12 @@ secciones que se muestran en la imagen de arriba.
             </form>
 
         </aside>
-   |
     </main>
     <footer>
 
         <p>Sección de información de contacto, derecho de autor, etc.</p>
 
     </footer>
-</body>
-</html>
+    </body>
+    </html>
 
