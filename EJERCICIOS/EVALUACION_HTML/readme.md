@@ -305,7 +305,7 @@ secciones que se muestran en la imagen de arriba.
     <!DOCTYPE html>
          <head>
               <title>Título de página</title>
-                 </head>
+         </head>
        <body>
     <header>
         <h1>ENCABEZADO NIVEL 1</h1>
