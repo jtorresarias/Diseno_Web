@@ -302,13 +302,8 @@ extensión .html
 actividad pero sí todo el código HTML5 que da estructura a cada una de las
 secciones que se muestran en la imagen de arriba.
 
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+              <!DOCTYPE html>
+  <head>
     <title>Título de página</title>
 </head>
 <body>
@@ -354,3 +349,4 @@ secciones que se muestran en la imagen de arriba.
     </footer>
 </body>
 </html>
+
