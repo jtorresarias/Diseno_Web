@@ -310,7 +310,8 @@ https://escuelasdecodigo.cdmx.gob.mx/wp-content/themes/escuelasdecodigo/dist/ass
 
 
 
-          
+ Link de página evaluació CSS
+https://nancyez.github.io/codigo/
           
           
  Ingresa el link a tu página del proyecto final
