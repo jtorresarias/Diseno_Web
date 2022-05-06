@@ -174,10 +174,142 @@ https://escuelasdecodigo.cdmx.gob.mx/wp-content/themes/escuelasdecodigo/dist/ass
 
           INGRESA AQUI EL CÓDIGO HTML
           
-          
+
+                    <!DOCTYPE html>
+                    <html>
+                    <head>
+                      <link rel="stylesheet" href="css/estilo.css">
+                      <link rel="preconnect" href="https://fonts.googleapis.com">
+                      <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+                      <link href="https://fonts.googleapis.com/css2?family=Open+Sans&family=Roboto:wght@500&display=swap" rel="stylesheet">
+                      <link rel="preconnect" href="https://fonts.googleapis.com">
+                      <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+                      <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@800&display=swap" rel="stylesheet">
+                      <title>EDC</title>
+
+                    </head>
+
+                    <body>
+                       <header>
+                          <img src="img/logo.svg" alt="logo"><hr>
+
+                          <nav>
+                          <ul>
+                            <li>Residentes</li>
+                            <li>Negocios</li>
+                            <li>Visitantes</li>
+                            <li>Gobierno</li>
+                          </ul>
+                          </nav>
+
+                       </header>
+
+                       <main>
+
+                          <div class="texto">
+
+                            <p> <span class="negrita">></span> APRENDE A PROGRAMAR EN LAS <span class="negrita">ESCUELAS DE CÓDIGO</span> DE LA CDMX</p>
+
+                         </div>
+
+                       </main>
+
+                       <footer>
+                          <h2>¿Quien se puede inscribir?</h2>
+                          <h3>Cualquier persona que quiera aprender a programar código y cuente con 4-8 horas disponibles a la semana.</h3>
+                          <h4>*Menores de edad deberán entrar a las instalaciones acompañados de un adulto.</h4>
+                       </footer>
+
+
+                    </body>
+                    </html>
+
           
           
           INGRESA AQUI EL CSS
+          
+          
+          
+                              *{
+                      margin:0;
+                      padding:0;
+                      font-family: 'Open Sans', sans-serif;;
+                    }
+
+                    /*header*/
+
+                    header img{
+                      width:32%;
+                      padding-left: 20px;
+                    }
+
+                    nav{
+                    color: #2d6a4f;
+                    font-weight:bold;
+                    font-size:25px;
+                    padding:20px;
+                    }
+
+                    ul{
+                    list-style-type:none;
+                    display:flex;
+                    justify-content:flex-end;
+                    text-align:right;
+                    }
+
+                    li{
+                    margin-right:20px;
+                    }
+
+                    /*main*/
+
+                    main {
+                     height: 60vh;
+                     background:url(../img/hero.jpg);
+                     background-potition:center;
+                     background-size:cover;
+                    display:flex;
+                    align-items:center;
+                    }
+
+                    .texto{
+                    width:50%;
+                    color: #ffffff;
+                    text-align:right;
+                    font-size:70px;
+                    padding-top
+                    }
+
+                    .negrita{
+                      font-weight:900;
+                      font-family: 'Open Sans', sans-serif;
+                    }
+
+                    /*footer*/
+
+                    footer {
+                    line-height:2;
+                    }
+
+                    footer h2{
+                    color:#936639;
+                    font-weight:bold;
+                    text-align:center;
+                    font-family: 'Roboto', sans-serif;
+                    padding-top:10px;
+                    }
+
+                    footer h3{
+                    text-align:center;
+                    }
+
+                    footer h4{
+                    text-align:center;
+                    font-weight: 400;
+                    }
+
+
+
           
           
           
