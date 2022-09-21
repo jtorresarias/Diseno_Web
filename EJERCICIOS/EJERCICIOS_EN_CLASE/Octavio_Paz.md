@@ -3,7 +3,7 @@ Agrega aqui el código de la página de Octavio Paz en HTML Y CSS
 <h1>5 Poemas de Octavio Paz</h1>
 <img src="whatsapp.png" alt="logo whatsapp">
 <img src="facebook.png" alt="logo facebook"><br>
-<img src="octavio-paz.jpg" width="500" alt="">
+<img src="octavio-paz.jpg" width="500" alt="foto octavio paz">
 <!-- sirve para hacer comentarios, las imagenes se guardan en la carpeta del proyecto control + k + c -->
 <p>Poeta y ensayista mexicano, recibió el Premio Nobel de literatura en 1990 <br>
      como reconocimiento a su obra literaria. Aquí te ofrecemos 5 poemas de <br>
