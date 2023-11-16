@@ -11,100 +11,83 @@ Preguntas:
 1. ¿Qué significa CSS? (valor 0.25)
 
           a) Cascading Style Sheets
-          b) Computer Style Sheets
-          c) Creative Style Sheets
-          d) Colorful Style Sheets
+          
           
 2. ¿Cuál es el HTML correcto para hacer referencia a una hoja de estilo externa?
 (valor 0.25)
 
-          a) <style src="mystyle.css">
+          
           b) <link rel="stylesheet" type="text/css" href="style.css">
-          c) <stylesheet>mystyle.css</stylesheet>
+         
           
 3. ¿En qué parte de un documento HTML es el lugar correcto para hacer referencia a
 una hoja de estilo externa? (valor 0.25)
 
           a) En la sección <head>
-          b) En la sección <body>
-          c) Al final del documento
+         
           
  4. ¿Qué etiqueta HTML se utiliza para definir una hoja de estilo interna? (valor 0.25)
  
-          a) <css>
-          b) <script>
+          
           c) <style>
           
  5. ¿Qué atributo HTML se usa para definir estilos en línea? (valor 0.25)
 
-          a) font
+         
           b) styles
-          c) class
+         
           
  6. ¿Cuál es la sintaxis CSS correcta? (valor 0.25)
 
-          a) {body;color:black;}
           b) body {color: black;}
-          c) body:color=black;
-          d) {body:color=black;}
-          d) style
+          
           
  7. ¿Cómo se inserta un comentario en un archivo CSS? (valor 0.25)
 
           a) /* esto es un comentario */
-          b) // esto es un comentario
-          c) // esto es un comentario //
-          d) ' esto es un comentario
+         
           
 8. ¿Qué propiedad se utiliza para cambiar el color de fondo? (valor 0.25)
 
-          a) bgcolor
+         
           b) background-color
-          c) color
+          
           
 9. ¿Cómo se agrega un color de fondo para todos los elementos h1 (valor 0.25)
   
-          a) all.h1 {background-color:#FFFFFF;}
           b) h1 {background-color:#FFFFFF;}
-          c) h1.all {background-color:#FFFFFF;}
+        
   
 10. ¿Qué propiedad CSS se usa para cambiar el color del texto de un elemento? (valor 0.25)
   
-          a) fgcolor
-          b) text-color
+         
           c) color
   
  11. ¿Qué propiedad CSS controla el tamaño del texto? (valor 0.25
   
-          a) font-style
-          b) text-style
+          
           c) font-size
-          d) text-size
+          
   
  12. ¿Cuál es la sintaxis CSS correcta para poner en negrita todos los elementos p?(valor 0.25)
   
-          a) <p style=\"text-size:bold;\">
-          b) p {text-size:bold;}
           c) p {font-weight:bold;}
-          d) <p style=\"font-size:bold;\">
+         
   
 13. ¿Cómo hacer que cada palabra en un texto comience con una letra mayúscula? (valor 0.25)
   
-          a) transform:capitalize
+         
           b) text-transform:capitalize
-          c) No puedes hacer eso con CSS
-          d) text-style:capitalize
+          
   
 14. ¿Qué propiedad se utiliza para cambiar la fuente de un elemento? (valor 0.25)
   
-          a) font-weight
+          
           b) font-family
-          c) font-style
+        
   
 15. ¿Cómo pones el texto en negrita? (valor 0.25)
   
-          a) style:bold;
-          b) font:bold;
           c) font-weight:bold;
   
 16. ¿Cómo se muestra un borde como este? (valor 0.25)
@@ -118,58 +101,48 @@ El borde izquierdo = 20 píxeles
 El borde derecho = 1 píxel
   
           a) border-width:10px 1px 5px 20px;
-          b) border-width:5px 20px 10px 1px;
-          c) border-width:10px 20px 5px 1px;
-          d) border-width:10px 5px 20px 1px; (valor 0.25)
+        
           
 17. ¿Qué propiedad se usa para cambiar el margen izquierdo de un elemento? (valor 0.25)
 
-          a) padding-left
+         
           b) margin-left
           
 18. Al usar la propiedad de relleno (padding); ¿Está permitido usar valores negativos? (valor 0.25)
 
             a) No
-            b) Sí
-            c) indent
+            
             
  19. ¿Cómo se selecciona un elemento con id 'demo'? (valor 0.25)
  
-            a) *demo
+           
             b) #demo
-            c) .demo
-            d) demo
+         
             
 20.¿Cómo se seleccionan elementos con el nombre de clase 'test'? (valor 0.25)
 
-            a) *test
+            p
             b) .test
-            c) #test
-            d) test
+           
             
 21. ¿Cómo se seleccionan todos los elementos p dentro de un elemento div? (valor 0.25)
 
-            a) div.p
             b) div p
-            c) div + p
+         
             
 22.¿Cómo se agrupan los selectores? (valor 0.25)
 
-            a) Separe cada selector con un espacio
-            b) Separe cada selector con un signo más
+            
             c) Separe cada selector con una coma
             
 23. ¿Cuál es el valor predeterminado de la propiedad posición? (valor 0.25)
 
-            a) absolute
-            b) fixed
-            c) relative
+           
             d) static
             
  24.¿Cómo se hace una lista que enumere sus elementos con cuadrados? (valor 0.25)
  
-            a) list-type: square;
-            b) list: square;
+         
             c) list-style-type: square;
             
 Realiza la maquetación del siguiente ejemplo de página: (se aplica la rúbrica de la
@@ -201,11 +174,145 @@ https://escuelasdecodigo.cdmx.gob.mx/wp-content/themes/escuelasdecodigo/dist/ass
 
           INGRESA AQUI EL CÓDIGO HTML
           
-          
+
+                    <!DOCTYPE html>
+                    <html>
+                    <head>
+                      <link rel="stylesheet" href="css/estilo.css">
+                      <link rel="preconnect" href="https://fonts.googleapis.com">
+                      <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+                      <link href="https://fonts.googleapis.com/css2?family=Open+Sans&family=Roboto:wght@500&display=swap" rel="stylesheet">
+                      <link rel="preconnect" href="https://fonts.googleapis.com">
+                      <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+                      <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@800&display=swap" rel="stylesheet">
+                      <title>EDC</title>
+
+                    </head>
+
+                    <body>
+                       <header>
+                          <img src="img/logo.svg" alt="logo"><hr>
+
+                          <nav>
+                          <ul>
+                            <li>Residentes</li>
+                            <li>Negocios</li>
+                            <li>Visitantes</li>
+                            <li>Gobierno</li>
+                          </ul>
+                          </nav>
+
+                       </header>
+
+                       <main>
+
+                          <div class="texto">
+
+                            <p> <span class="negrita">></span> APRENDE A PROGRAMAR EN LAS <span class="negrita">ESCUELAS DE CÓDIGO</span> DE LA CDMX</p>
+
+                         </div>
+
+                       </main>
+
+                       <footer>
+                          <h2>¿Quien se puede inscribir?</h2>
+                          <h3>Cualquier persona que quiera aprender a programar código y cuente con 4-8 horas disponibles a la semana.</h3>
+                          <h4>*Menores de edad deberán entrar a las instalaciones acompañados de un adulto.</h4>
+                       </footer>
+
+
+                    </body>
+                    </html>
+
           
           
           INGRESA AQUI EL CSS
           
           
           
+                              *{
+                      margin:0;
+                      padding:0;
+                      font-family: 'Open Sans', sans-serif;;
+                    }
+
+                    /*header*/
+
+                    header img{
+                      width:32%;
+                      padding-left: 20px;
+                    }
+
+                    nav{
+                    color: #2d6a4f;
+                    font-weight:bold;
+                    font-size:25px;
+                    padding:20px;
+                    }
+
+                    ul{
+                    list-style-type:none;
+                    display:flex;
+                    justify-content:flex-end;
+                    text-align:right;
+                    }
+
+                    li{
+                    margin-right:20px;
+                    }
+
+                    /*main*/
+
+                    main {
+                     height: 60vh;
+                     background:url(../img/hero.jpg);
+                     background-potition:center;
+                     background-size:cover;
+                    display:flex;
+                    align-items:center;
+                    }
+
+                    .texto{
+                    width:50%;
+                    color: #ffffff;
+                    text-align:right;
+                    font-size:70px;
+                    padding-top
+                    }
+
+                    .negrita{
+                      font-weight:900;
+                      font-family: 'Open Sans', sans-serif;
+                    }
+
+                    /*footer*/
+
+                    footer {
+                    line-height:2;
+                    }
+
+                    footer h2{
+                    color:#936639;
+                    font-weight:bold;
+                    text-align:center;
+                    font-family: 'Roboto', sans-serif;
+                    padding-top:10px;
+                    }
+
+                    footer h3{
+                    text-align:center;
+                    }
+
+                    footer h4{
+                    text-align:center;
+                    font-weight: 400;
+                    }
+
+
+
+ Link de página evaluació CSS
+https://nancyez.github.io/codigo/
+          
+          
  Ingresa el link a tu página del proyecto final
+ https://nancyez.github.io/proyecto_final/
